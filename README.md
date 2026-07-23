@@ -3,8 +3,8 @@
 <h2>👨‍💻 IT Support/Helpdesk Projects:</h2>
 
 - <b> Microsoft Azure 🔷:</b>
-  - Configuring On-premises Active Directory within Azure VMs
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
+  - Azure Active Directory (Identity Management)
+  - On-Prem Active Directory in Azure VMs
   - Network Security Groups & Protocol Inspection
   - Azure File Share & Permissions
   - Azure Monitoring & Alerts
