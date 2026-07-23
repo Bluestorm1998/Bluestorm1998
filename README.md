@@ -5,9 +5,28 @@
 - <b> Microsoft Azure 🔷:</b>
   - Configuring On-premises Active Directory within Azure VMs
   - Network Security Groups (NSGs) and Inspecting Network Protocols
+  - Network Security Groups & Protocol Inspection
+  - Azure File Share & Permissions
+  - Azure Monitoring & Alerts
+  - Logic Apps Automation for IT Support
+
+
+- <b> Windows Server Projects 🪟: </b>
+  - Group Policy Management
+  - Domain Join Troubleshooting
+  
+
+- <b> Networking Projects 🌐: </b>
+  - DNS, DHCP, RDP, Firewall Troubleshooting
 
   
 - <b> osTicket (Help Desk Ticketing System) 🎫:</b>
   - osTicket: Prerequisites and Installation</b></i>
   - osTicket: Post-Installation Configuration
   - osTicket: Ticket Lifecycle Examples
+
+
+- <b> Microsoft 365 Projects 🟦🟩🟧: </b>
+  - User Management
+  - Email Troubleshooting
+  - Permissions & Shared Mailboxes
